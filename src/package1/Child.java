@@ -23,6 +23,7 @@ public class Child extends Parent {
 	
 	public static void cmethod2() {
 		System.out.println("child staic method");
+System.out.println("child staic method");
 	}
 	
 }
